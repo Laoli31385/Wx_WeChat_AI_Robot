@@ -1,0 +1,2 @@
+# Wx_WeChat_AI_Robot
+在微信里接入了ai与好朋友一起愉快玩耍的小demo
